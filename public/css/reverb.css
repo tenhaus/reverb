@@ -1,0 +1,54 @@
+html, body, .comingsoon {
+  height: 100%;
+}
+
+.comingsoon {
+  background-image: url('/public/img/bg.png');
+  background-size: cover;
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: .8rem;
+}
+
+.hero-wrap {
+  display: inline-block;
+  text-align: right;
+  width: 60%;
+  margin: 5rem;
+}
+
+.hero-wrap p {
+  display: inline-block;
+}
+
+.hero-type {
+  display: inline;
+  margin-bottom: 0rem;
+}
+
+.info p {
+  margin: 0rem;
+}
+
+.book-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.6rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  line-height: 13px;
+  color: #fff;
+
+  display: inline-block;
+  border: 1px solid #EEEEEE;
+  border-radius: 40px;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+
+  margin: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
