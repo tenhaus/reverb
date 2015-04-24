@@ -4,6 +4,9 @@ html, body, .comingsoon {
 
 .comingsoon {
   background-image: url('/public/img/bg.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   font-family: 'PT Serif', serif;
   color: #fff;
